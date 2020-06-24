@@ -1,2 +1,2 @@
-# springboot-webservice-aws
-springboot-webservice-aws
+# spring_boot_aws
+spring_boot_aws
