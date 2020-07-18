@@ -9,3 +9,4 @@ spring:
     include: oauth,real-db
   session:
     store-type: jdbc
+    
