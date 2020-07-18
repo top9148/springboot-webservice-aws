@@ -1,0 +1,11 @@
+server:
+  port: 8082
+spring:
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+  profiles:
+    include: oauth,real-db
+  session:
+    store-type: jdbc
